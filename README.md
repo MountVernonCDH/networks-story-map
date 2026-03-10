@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://mountvernoncdh.github.io/networks-story-map/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1p4hCeaEXHwZ5PYIj8IhrJTAwB_a9It7fevJbXImLfTE/edit?usp=sharing
+- Google Sheets template https://docs.google.com/spreadsheets/d/1RgoHGlAPT6ws2gHZDPKrmiNZQf1c1_6IGjuvENVszgI/edit?usp=sharing
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
